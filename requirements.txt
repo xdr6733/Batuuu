@@ -1,6 +1,3 @@
 flask
-gunicorn
-gevent
 requests
-redis
-rq
+gunicorn
